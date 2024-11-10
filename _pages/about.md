@@ -43,6 +43,6 @@ Environment Regulations, Pollution Abatements, and Firm Performance: Evidence fr
 More
 ======
 
-You can reach me at: zxzhou@hku.hk.
+You can reach me at: zxzhou@hku.hk 
 
-You can find my CV here: Zexi's Curriculum Vitae.
+You can find my CV here: [Zexi's Curriculum Vitae](../assets/ZZXCV.pdf)
