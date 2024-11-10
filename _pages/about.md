@@ -19,7 +19,8 @@ My research interests cover Empirical Industrial Organization, Trade, and Urban 
 
 Research
 ======
-*Working Papers
+
+1.Working Papers
 ---
 
 Industrial Clustering with Production Linkages: Micro Evidence and Aggregate Implications in China (with Hongsong Zhang) (draft available upon request)
@@ -34,7 +35,7 @@ Presentations: HKU Brownbag Seminar
 
 Abstract: This study provides novel evidence on how Development Zones (DZs) have shaped China's manufacturing geography and regional economic growth. Utilizing comprehensive geo-coded data on new firm registrations and DZ policies with industry-specific targets from 1979 to 2019, we investigate the impact of the Development Zone Targeting Industry Policy on local entrepreneurial activities in the manufacturing sectors through direct and vertical spillover channels. Our staggered difference-in-differences analysis reveals that the program increased the number of new entrants by 5% and their scale by 32%, fostering policy-induced clusters of targeted industries. This direct effect is primarily driven by reduced entry costs due to place-based targeting policies. For non-targeted industries, the DZ policy also enhanced the growth of untreated upstream and downstream entrants associated with the targeted industries, despite not receiving direct tax exemptions, subsidies, or land discounts. The input-output linkages across industries play a non-negligible role in connecting place-based industrial policies to enhanced local economic growth.
 
-*Work In Progress
+2.Work In Progress
 ---
 
 Environment Regulations, Pollution Abatements, and Firm Performance: Evidence from China (with Hongsong Zhang)
