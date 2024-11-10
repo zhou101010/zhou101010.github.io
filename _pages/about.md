@@ -1,6 +1,16 @@
-About
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+Welcome! 
 ======
-Welcome! I am Zexi (周泽茜).
+I am Zexi (周泽茜).
 
 ​I am a Ph.D. candidate in Economics at the University of Hong Kong. 
 
