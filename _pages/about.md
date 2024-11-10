@@ -17,4 +17,4 @@ My research interests cover Empirical Industrial Organization, Trade, and Urban 
 
 ​I am especially interested in questions broadly related to how production linkages and geographical proximity affect the decisions and performance of heterogeneous firms and how they impact the aggregate economy. In my research, I study how industrial clusters with input-output linkages form and generate impacts on firms, using structural tools from empirical IO and spatial equilibrium models.
 
-You can reach me at: zxzhou@hku.hk 
+You can find my CV here: [Zexi's Curriculum Vitae](../assets/ZZXCV.pdf).
